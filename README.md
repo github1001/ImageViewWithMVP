@@ -5,5 +5,5 @@ I fetch data via https://pastebin.com/raw/wgkJgazE in example for the purpose of
 
 To emulate Android project, I use the Nexus API 23 with 6.5GB ram for the emulator.
 
-The task aims to show data pagination and fecthing data via POST or GET from available public sources where users often stream photos of the web or 
+The task aims to show data pagination and fecthing data via POST or GET from available public sources where users often stream photos off the web or 
 download them for prints.
